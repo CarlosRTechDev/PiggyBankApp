@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PiggyBankApp</string>
+
+
+    <string name="label_select_type">Seleccione un tipo</string>
+    <string-array name="spinner_items">
+        <item>Debito</item>
+        <item>Credito</item>
+    </string-array>
+
+</resources>
